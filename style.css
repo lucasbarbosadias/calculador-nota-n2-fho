@@ -1,0 +1,43 @@
+body {
+    background-color: #42576f;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.quadro {
+    width: 90%;
+    background-color: #fbfbfb;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+}   
+
+.verde {
+    background-color: #008000;
+}   
+
+.desc {
+    color: #ffffff;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.aprovado {
+    color: #00ca00;
+}
+
+.reprovado {
+    color: #ff0000;
+}
+
+.recuperacao {
+    color: blue;
+}
